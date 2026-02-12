@@ -9,21 +9,21 @@
     }
   },
   "searches": [
-    {
-      "name": "👟 TIMBERLAND 43 - 45€ MAX",
-      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=213&status[]=2&status[]=3&price_to=45&order=newest_first"
+        {
+      "name": "👟 TIMBERLAND 43 - 55€ MAX",
+      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=213&status[]=2&status[]=3&price_to=55&order=newest_first"
     },
     {
-      "name": "👟 TIMBERLAND 44 - 45€ MAX",
-      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=214&status[]=2&status[]=3&price_to=45&order=newest_first"
+      "name": "👟 TIMBERLAND 44 - 55€ MAX",
+      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=214&status[]=2&status[]=3&price_to=55&order=newest_first"
     },
     {
-      "name": "👟 TIMBERLAND 45 - 45€ MAX",
-      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=215&status[]=2&status[]=3&price_to=45&order=newest_first"
+      "name": "👟 TIMBERLAND 45 - 55€ MAX",
+      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=215&status[]=2&status[]=3&price_to=55&order=newest_first"
     },
     {
-      "name": "👟 TIMBERLAND 46 - 50€ MAX",
-      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=216&status[]=2&status[]=3&price_to=50&order=newest_first"
+      "name": "👟 TIMBERLAND 46 - 55€ MAX",
+      "url": "https://www.vinted.fr/catalog?brand_id[]=363&size_id[]=216&status[]=2&status[]=3&price_to=55&order=newest_first"
     },
     {
       "name": "👟 TIMBERLAND 47 - 55€ MAX",
